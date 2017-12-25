@@ -1,0 +1,10 @@
+C:\Users\OLGUWIN\source\repos\Find-S\Find-S\bin\Debug\Find-S.exe.config
+C:\Users\OLGUWIN\source\repos\Find-S\Find-S\bin\Debug\Find-S.exe
+C:\Users\OLGUWIN\source\repos\Find-S\Find-S\bin\Debug\Find-S.pdb
+C:\Users\OLGUWIN\source\repos\Find-S\Find-S\obj\Debug\Find-S.csprojResolveAssemblyReference.cache
+C:\Users\OLGUWIN\source\repos\Find-S\Find-S\obj\Debug\Find_S.Form1.resources
+C:\Users\OLGUWIN\source\repos\Find-S\Find-S\obj\Debug\Find_S.Properties.Resources.resources
+C:\Users\OLGUWIN\source\repos\Find-S\Find-S\obj\Debug\Find-S.csproj.GenerateResource.Cache
+C:\Users\OLGUWIN\source\repos\Find-S\Find-S\obj\Debug\Find-S.csproj.CoreCompileInputs.cache
+C:\Users\OLGUWIN\source\repos\Find-S\Find-S\obj\Debug\Find-S.exe
+C:\Users\OLGUWIN\source\repos\Find-S\Find-S\obj\Debug\Find-S.pdb
